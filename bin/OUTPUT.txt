@@ -1,0 +1,41 @@
+Name: Quan Luu
+Student ID: 31529099
+NetID: qluu2
+Lab section: MW 6h15 - 7h30
+Project: 1
+Expected result:
+2.00
+6.20
+6.20
+0.00
+4.20
+-4.20
+12.00
+16.00
+-8.00
+9.00
+1.00
+0.00
+0.00
+1.00
+1.00
+1.00
+0.00
+1.00
+0.00
+1.00
+0.00
+1.00
+0.00
+0.00
+1.00
+64.00
+1.00
+0.87
+1.00
+1.00
+Invalid expression: can't divide by zero
+Invalid expression: can't mod by zero
+Invalid expression: syntax error
+Invalid expression: syntax error
+Invalid expression: syntax error
